@@ -1,7 +1,7 @@
 How artificial intelligence is tackling mathematical problem-solving
 
 Even as it became a popular sensation, ChatGPT was infamous both for hallucinations (making up facts) and for simple arithmetic mistakes. 
-However, after many advances, ‘reasoning’ models have reached the level of Maths Olympiad Gold medallists.
+However, after many advances, 'reasoning' models have reached the level of Maths Olympiad Gold medallists.
 
 The International Mathematical Olympiad (IMO) is arguably the leading mathematical problem-solving competition. 
 Every year, high school students from around the world attempt six problems over the span of three hours. 

@@ -3,14 +3,14 @@ xAI co-founder Igor Babuschkin departs to launch AI safety investment firm
 "Today was my last day at xAI," Babuschkin said in a post on X, adding that his new venture, Babuschkin Ventures, will back AI safety research and startups
 Igor Babuschkin, a co-founder of Elon Musk's artificial intelligence startup xAI, said on Wednesday that he has left the company and plans to launch an investment firm focused on AI safety research.
 
-Musk launched xAI in 2023 to challenge Big Tech’s AI push, accusing industry leaders of excessive censorship and lax safety standards.
+Musk launched xAI in 2023 to challenge Big Tech's AI push, accusing industry leaders of excessive censorship and lax safety standards.
 
 "Today was my last day at xAI," Babuschkin said in a post on X, adding that his new venture, Babuschkin Ventures, will back AI safety research and startups developing the technology.
 
-Babuschkin, who previously worked at Google’s DeepMind and OpenAI, described xAI’s early scramble to build infrastructure and models, saying he created “many of the foundational tools” for launching and managing training jobs before later overseeing engineering across infrastructure, product and applied AI projects.
+Babuschkin, who previously worked at Google's DeepMind and OpenAI, described xAI's early scramble to build infrastructure and models, saying he created "many of the foundational tools" for launching and managing training jobs before later overseeing engineering across infrastructure, product and applied AI projects.
 
-His departure follows that of xAI’s legal head, Robert Keele, earlier this month, and comes amid intensifying competition among AI players such as OpenAI, Google and Anthropic, which are pouring resources into training and deploying advanced systems.
+His departure follows that of xAI's legal head, Robert Keele, earlier this month, and comes amid intensifying competition among AI players such as OpenAI, Google and Anthropic, which are pouring resources into training and deploying advanced systems.
 
-Last month, Musk-owned X’s CEO Linda Yaccarino also resigned, just months after the platform was folded into xAI.
+Last month, Musk-owned X's CEO Linda Yaccarino also resigned, just months after the platform was folded into xAI.
 
 Musk is separately contending with executive departures at Tesla.

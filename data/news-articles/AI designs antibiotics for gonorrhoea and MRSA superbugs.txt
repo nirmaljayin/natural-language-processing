@@ -1,0 +1,15 @@
+AI designs antibiotics for gonorrhoea and MRSA superbugs
+
+Artificial intelligence has invented two new potential antibiotics that could kill drug-resistant gonorrhoea and MRSA, researchers have revealed.
+
+The drugs were designed atom-by-atom by the AI and killed the superbugs in laboratory and animal tests.
+
+The two compounds still need years of refinement and clinical trials before they could be prescribed.
+
+But the Massachusetts Institute of Technology (MIT) team behind it say AI could start a "second golden age" in antibiotic discovery.
+
+Antibiotics kill bacteria, but infections that resist treatment are now causing more than a million deaths a year.
+
+Overusing antibiotics has helped bacteria evolve to dodge the drugs' effects, and there has been a shortage of new antibiotics for decades.
+
+Researchers have previously used AI to trawl through thousands of known chemicals in an attempt to identify ones with potential to become new antibiotics.

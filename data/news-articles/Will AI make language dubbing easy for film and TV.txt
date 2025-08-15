@@ -1,0 +1,19 @@
+Will AI make language dubbing easy for film and TV?
+
+Finding international films that might appeal to the US market is an important part of the work XYZ Films.
+
+Maxime Cottray is the chief operating officer at the Los Angeles-based independent studio.
+
+He says the US market has always been tough for foreign language films.
+
+"It's been limited to coastal New York viewers through art house films," he says.
+
+It's partly a language problem.
+
+"America is not a culture which has grown up with subtitles or dubbing like Europe has," he points out.
+
+But that language hurdle might be easier to clear with a new AI-driven dubbing system.
+
+The audio and video of a recent film, Watch the Skies, a Swedish sci-fi film, was fed into a digital tool called DeepEditor.
+
+It manipulates the video to make it look like actors are genuinely speaking the language the film is made into.
